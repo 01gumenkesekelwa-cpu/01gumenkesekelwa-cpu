@@ -1,10 +1,10 @@
-<p align="center">
+
 # Hi, I'm Sekelwa Gumenke 👋
 
 🎓 Postgraduate Diploma in Data Science Candidate at Wits University
 
 📊 Data Analytics | 🤖 Machine Learning | 🏗️ Data Engineering
-</p>
+
 
 I am passionate about using data to solve real-world problems through analytics, machine learning, and data-driven decision making.
 
