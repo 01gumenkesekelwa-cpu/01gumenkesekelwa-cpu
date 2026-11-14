@@ -3,10 +3,14 @@
 
 🎓 Postgraduate Diploma in Data Science Candidate at Wits University
 
+💼 Data Science Intern at Wingu Academy
+
 📊 Data Analytics | 🤖 Machine Learning | 🏗️ Data Engineering
 
 
 I am passionate about using data to solve real-world problems through analytics, machine learning, and data-driven decision making.
+
+Currently combining postgraduate studies in Data Science with industry experience at Wingu Academy, exploring the application of data science and AI to real-world challenges in the education technology sector.
 
 ---
 
@@ -20,19 +24,37 @@ Achieved an **86% average** in Semester 1 of the Wits Postgraduate Diploma in Da
 - Data Science in Practice
 
 ---
+💼 Industry Experience
 
-## 👩🏽‍💻 About Me
+Data Science Intern | Wingu Academy
 
-I have a background in Mathematics, Information Technology, and Education.
+November 2026 – April 2027
+
+Gaining practical industry experience in Data Science within the Education Technology (EdTech) sector.
+
+Exploring the application of machine learning and predictive analytics to educational challenges.
+
+Applying data science concepts to real-world problems.
+
+Developing practical experience in data-driven decision-making and AI solutions.
+
+Bridging educational domain knowledge with data science and technology.
+
+Focus Areas: Machine Learning | Predictive Analytics | Education Technology | Artificial Intelligence | Data Science
+---
+👩🏽‍💻 About Me
+
+I have a background in Mathematics, Information Technology, and Education, with a growing focus on Data Science, Machine Learning, and Data Engineering.
 
 My interests include:
 
-- Data Analytics
-- Machine Learning
-- Data Engineering
-- Business Intelligence
-- Data Visualization
-- Data-Driven Decision Making
+Data Analytics
+Machine Learning
+Data Engineering
+Business Intelligence
+Data Visualization
+Predictive Modelling
+Data-Driven Decision Making
 
 I enjoy transforming raw data into meaningful insights that support better decision-making and solve real-world challenges.
 
