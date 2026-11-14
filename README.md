@@ -24,25 +24,23 @@ Achieved an **86% average** in Semester 1 of the Wits Postgraduate Diploma in Da
 - Data Science in Practice
 
 ---
-💼 Industry Experience
+# 💼 Industry Experience
 
-Data Science Intern | Wingu Academy
+**Data Science Intern | Wingu Academy**
 
 November 2026 – April 2027
 
 Gaining practical industry experience in Data Science within the Education Technology (EdTech) sector.
-
 Exploring the application of machine learning and predictive analytics to educational challenges.
-
 Applying data science concepts to real-world problems.
-
 Developing practical experience in data-driven decision-making and AI solutions.
-
 Bridging educational domain knowledge with data science and technology.
 
-Focus Areas: Machine Learning | Predictive Analytics | Education Technology | Artificial Intelligence | Data Science
+Focus Areas: Machine Learning | Predictive Analytics | Education Technology | Artificial Intelligence | Data Science 
+
 ---
-👩🏽‍💻 About Me
+
+# 👩🏽‍💻 About Me
 
 I have a background in Mathematics, Information Technology, and Education, with a growing focus on Data Science, Machine Learning, and Data Engineering.
 
